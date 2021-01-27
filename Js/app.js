@@ -51,9 +51,6 @@ $(function(){
 			}
 		)
 	}	
-	// $('.box-atividades-single').mouseout(function(){
-		
-	// })
 
 
 });
